@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_cucibasah.xml" value="0.22" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_drycleaning.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_history.xml" value="0.25" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_info.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_item_history.xml" value="0.1" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_laundry.xml" value="0.25" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_premiumwash.xml" value="0.13043478260869565" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_produk.xml" value="0.22" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_service.xml" value="0.33" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_setrika.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/list_item_history.xml" value="0.33" />
+        <entry key="..\:/Users/intan/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_dashboard.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/intan/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_dashboard2.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/intan/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/intan/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_signup.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/user.xml" value="0.252" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_dashboard.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

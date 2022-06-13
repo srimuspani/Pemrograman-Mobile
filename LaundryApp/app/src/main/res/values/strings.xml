@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LaundryApp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="no_tlp">Nomor Telepon</string>
+    <string name="button_loc1">Open Location</string>
+    <string name="edittext_loc1">https://goo.gl/maps/gHZYVX69CgXJX4qB6</string>
+    <string name="edittext1">LAUNDRYKU (Akasia)</string>
+    <string name="button_loc2">Open Location</string>
+    <string name="edittext_loc2">https://goo.gl/maps/WGzASfZXMFdJSHyo9</string>
+    <string name="edittext2">LuV LAUNDRY Akasia</string>
+    <string name="button_loc3">Open Location</string>
+    <string name="edittext3">Permata Laundry</string>
+    <string name="edittext_loc3">https://goo.gl/maps/EatKpy8nZrz1nq4y8</string>
+</resources>
